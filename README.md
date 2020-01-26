@@ -7,5 +7,5 @@
 
 ## Contents
 
-- [Hugging Face Tokenizers와 PyTorch Captum 간단 사용기](tokenizers-captum.ipynb)
-- [The Annotated Transformer 보다 친절한 트랜스포머 튜토리얼 !](transformer-aihub.ipynb) (작업 중)
+- [Hugging Face "Tokenizers"와 PyTorch "Captum" 간단 사용기](tokenizers-captum.ipynb)
+- [The Annotated Transformer 보다 친절한 트랜스포머 튜토리얼](transformer-aihub.ipynb) (작업 중)
