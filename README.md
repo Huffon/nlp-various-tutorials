@@ -9,4 +9,5 @@
 
 - [Hugging Face **Tokenizers**와 PyTorch **Captum** 간단 사용기](tokenizers-captum.ipynb)
 - [`nn.utils.prune` 모듈로 **BERT** 파라미터 Pruning 해보기](pruning-bert.ipynb)
+- 다양한 자연어 생성 기법에 대한 이야기
 - [The Annotated Transformer 보다 친절한 트랜스포머 튜토리얼](transformer-aihub.ipynb) (작업 중)
