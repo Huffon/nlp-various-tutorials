@@ -12,7 +12,7 @@
 
 - [Hugging Face **Tokenizers**와 PyTorch **Captum** 간단 사용기](tokenizers-captum.ipynb)
 - [`nn.utils.prune` 모듈로 **BERT** 파라미터 Pruning 해보기](pruning-bert.ipynb)
-- [세 가지 영어 **POS Tagger** `spaCy`, `stanza`, `flair` 성능 및 속도 비교](pos-comparision.ipynb)
+- [한국어 **Byte-Pair Encoding** 적용기](korean-bpe.ipynb)
 - [The Annotated Transformer 보다 친절한 트랜스포머 튜토리얼](transformer-aihub.ipynb) (작업 중 . . .)
 
 <br/>
